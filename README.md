@@ -2,8 +2,8 @@
 
 This repository contains two artificial neural network projects:
 
-1. ** 🧬 Blood Cell Image Classification**  
-   - Multi-class classification problem involving 96x96 RGB images of blood cells.  
+1. ** :DNA Blood Cell Image Classification**  
+   - Multi-class classification problem involving 96x96 RGB images of blood cells.   :lab_coat: :microscope:
 
 2. ** ☄️ Mars Terrain Segmentation**  
    - Semantic segmentation task involving 64x128 grayscale images of Mars terrain, with 5 terrain classes:  
